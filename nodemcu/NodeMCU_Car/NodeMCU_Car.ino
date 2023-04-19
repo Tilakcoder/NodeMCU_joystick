@@ -15,7 +15,7 @@ String resp;
 int speedCar = 800;         // 400 - 1023.
 int speed_Coeff = 3;
 
-const char* ssid = "Girish Car";
+const char* ssid = "Tilak Car";
 ESP8266WebServer server(80);
 
 void setup() {
